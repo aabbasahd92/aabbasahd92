@@ -69,5 +69,5 @@ Senior QA Automation Engineer and SDET roles in healthcare, fintech, and enterpr
 📫 Reach Me
 📧 aabbas.ahd@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/ahamed-abbas-49421856/)
-💻 GitHub Portfolio
+💻 [GitHub Portfolio](https://github.com/aabbasahd92/Playwright-qa-framework)
 📍 Herndon, VA (Open to Relocation)
