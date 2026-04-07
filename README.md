@@ -12,6 +12,7 @@ Lead QA programs across Agile/SAFe environments with onshore/offshore teams.
 
 
 🛠️ Tech & Tools
+
 Languages: Python · SQL · JSON
 Test & Automation: Playwright · pytest · pytest-xdist · TestComplete · Selenium (familiar)
 API Testing: Postman · Swagger · REST · Playwright APIRequestContext · Mock API (route interception)
@@ -27,6 +28,7 @@ Methodologies: Agile · Scrum · Kanban · SAFe · SDLC
 
 Senior QA Analyst / Senior QA Engineer — CVS Health (2022–2025)
 Led end-to-end QA programs for regulated healthcare platforms. Slashed production defect leakage by 35%, automated 100+ REST APIs, achieved 100% data validation accuracy on enterprise migrations, and rebuilt the Playwright framework cutting flaky test rate from 15% to under 3%.
+
 QA Analyst — Aetna, a CVS Health Company (2018–2022)
 Designed and executed 300+ test cases for healthcare applications. Zero critical defects in production across 10+ consecutive Agile sprints.
 
@@ -39,6 +41,7 @@ Playwright QA Automation Framework
 ![Tests](https://img.shields.io/badge/Tests-200%2B-brightgreen)
 ![Browsers](https://img.shields.io/badge/Browsers-3-orange)
 A production-grade QA automation framework built from scratch — 18 modules, 200+ tests, 3 browsers.
+
 What's inside:
 
 ✅ Page Object Model — 8 page objects, zero hardcoded test data
