@@ -14,7 +14,7 @@ Lead QA programs across Agile/SAFe environments with onshore/offshore teams.
 🛠️ Tech & Tools
 
 Languages: Python · SQL · JSON
-Test & Automation: Playwright · pytest · pytest-xdist · TestComplete · Selenium (familiar)
+Test & Automation: Playwright · pytest · pytest-xdist · Appium · Selenium (familiar)
 API Testing: Postman · Swagger · REST · Playwright APIRequestContext · Mock API (route interception)
 Reporting: Allure · pytest-html · Screenshots & Video on failure
 CI / DevOps: GitHub Actions · GCP · CI pipeline quality gates
