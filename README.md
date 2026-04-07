@@ -33,11 +33,11 @@ Designed and executed 300+ test cases for healthcare applications. Zero critical
 
 🚀 Featured Project
 Playwright QA Automation Framework
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+S![CI](https://github.com/aabbasahd92/Playwright-qa-framework/actions/workflows/playwright.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Playwright](https://img.shields.io/badge/Playwright-1.58-green)
+![Tests](https://img.shields.io/badge/Tests-200%2B-brightgreen)
+![Browsers](https://img.shields.io/badge/Browsers-3-orange)
 A production-grade QA automation framework built from scratch — 18 modules, 200+ tests, 3 browsers.
 What's inside:
 
