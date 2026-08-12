@@ -1,5 +1,5 @@
-Hi — I'm Ahmed Abbas 👋
-I'm a Senior QA Automation Engineer with 7+ years of experience building reliable healthcare and enterprise products at CVS Health and Aetna. I turn manual QA pain points into automated, repeatable solutions — and I build frameworks that scale.
+Hi — I'm Ahmed Abbas 
+I'm a Senior QA Automation Engineer with 7+ years of experience building reliable healthcare and enterprise products at CVS Health and Aetna. I turn manual QA pain points into automated, repeatable solutions - and I build frameworks that scale.
 
 🔭 What I do
 
@@ -26,7 +26,7 @@ Methodologies: Agile · Scrum · Kanban · SAFe · SDLC
 
 💼 Experience Snapshot
 
-Senior QA Analyst / Senior QA Engineer — CVS Health (2022–2025)
+Senior QA Analyst / Senior QA Engineer - CVS Health (2022–2025)
 Led end-to-end QA programs for regulated healthcare platforms. Slashed production defect leakage by 35%, automated 100+ REST APIs, achieved 100% data validation accuracy on enterprise migrations, and rebuilt the Playwright framework cutting flaky test rate from 15% to under 3%.
 
 QA Analyst — Aetna, a CVS Health Company (2018–2022)
